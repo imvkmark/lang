@@ -1,4 +1,5 @@
 module.exports = {
+	"/": ["/readme.md", "/intro/how.md"],
 	"/shell/": [
 		{
 			text: "Shell 学习笔记",
