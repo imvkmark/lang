@@ -18,4 +18,8 @@ module.exports = [
 			},
 		],
 	},
+	{
+		text: "Wulicode",
+		link: "https://wulicode.com/",
+	},
 ];
