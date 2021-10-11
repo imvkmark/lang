@@ -9,7 +9,7 @@ module.exports = {
 				"/shell/1_intro.md",
 				{
 					text: "语法结构",
-					link: "/shell/3_lang_ref/1_syntax.md",
+					link: "/shell/3_lang_ref/1_syntax.html",
 					collapsable: false,
 					sidebarDepth: 1,
 					children: [

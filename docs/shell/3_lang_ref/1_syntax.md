@@ -12,7 +12,7 @@ Shell 解释器。 `#!` 被称作 [shebang（也称为 Hashbang
 `#!` 决定了脚本可以像一个独立的可执行文件一样执行，而不用在终端之前输入
 `sh` , `bash` , `python` , `php` 等。
 
-``` sh
+```sh
 # 以下两种方式都可以指定 shell 解释器为 bash，第二种方式更好
 #!/bin/bash
 #!/usr/bin/env bash
@@ -29,13 +29,11 @@ shell 语法中，注释是特殊的语句，会被 shell 解释器忽略。
 
 @[code](./1_syntax/comment.sh)
 
-
 ## echo
 
 用于字符串的输出。
 
 @[code](./1_syntax/echo.sh)
-
 
 输出到重定向文件
 
@@ -50,10 +48,9 @@ printf 用于格式化输出字符串。
 
 @[code](./1_syntax/print_f.sh)
 
-
 ### printf 的转义符
 
-|  序列   |                         说明                         |
+| 序列    | 说明                                                 |
 | ------- | ---------------------------------------------------- |
 | `\a`    | 警告字符，通常为 ASCII 的 BEL 字符                   |
 | `\b`    | 后退                                                 |
