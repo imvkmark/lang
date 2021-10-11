@@ -6,15 +6,15 @@ module.exports = [
 		children: [
 			{
 				text: "简介",
-				link: "/shell/1_intro",
+				link: "/shell/1_intro.md",
 			},
 			{
 				text: "语法结构",
-				link: "/shell/3_lang_ref/1_syntax",
+				link: "/shell/3_lang_ref/1_syntax.md",
 			},
 			{
 				text: "命令",
-				link: "/shell/4_command",
+				link: "/shell/4_command.md",
 			},
 		],
 	},
