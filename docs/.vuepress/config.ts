@@ -14,6 +14,8 @@ module.exports = {
 		repo: "https://github.com/imvkmark/lang",
 		displayAllHeaders: true,
 		smoothScroll: true,
+		docsBranch: "master",
+		docsDir: "docs",
 	},
 	alias: {
 		"@feComp": path.resolve(__dirname, "../fe/components"),
