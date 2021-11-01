@@ -76,7 +76,7 @@ module.exports = {
 			text: "核心",
 			collapsable: true,
 			sidebarDepth: 2,
-			children: ["/php/core/faq.md"],
+			children: ["/php/core/1_intro.md", "/php/core/faq.md", "/php/core/upgrade-7.4.md"],
 		},
 		{
 			text: "Laravel",

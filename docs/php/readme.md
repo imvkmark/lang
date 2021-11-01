@@ -6,4 +6,6 @@
 
 ## 安装
 
-- [composer 安装和配置](./env/install-composer.md)
+-   [composer 安装和配置](./env/install-composer.md)
+-   [CentOS 7 安装 nginx, php, mysql, redis, supervisor 套件](https://wulicode.com/note/os/centos/lnmp-at-centos.html)
+-   [Mac 使用 brew 安装 Nginx、MySQL、PHP-FPM 的 LNMP 开发环境](https://wulicode.com/note/os/mac/lnmp-at-mac.html)
