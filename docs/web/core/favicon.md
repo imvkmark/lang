@@ -1,4 +1,4 @@
-# favicon 说明
+# favicon 简要说明
 
 个人认为, 如果不是对 icon 要求特别高可以在 header 中放置一个 png 即可
 
