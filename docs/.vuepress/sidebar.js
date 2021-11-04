@@ -6,7 +6,11 @@ module.exports = {
 			text: "核心",
 			collapsable: true,
 			sidebarDepth: 2,
-			children: ["/web/core/code-review/js-01.md"],
+			children: [
+                "/web/core/best-practice.md",
+                "/web/core/favicon.md",
+                "/web/core/code-review/js-01.md"
+        ],
 		},
 		{
 			text: "Npm & Yarn",
