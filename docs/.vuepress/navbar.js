@@ -19,14 +19,6 @@ module.exports = [
 		],
 	},
 	{
-		text: "Php",
-		link: "/php/",
-	},
-	{
-		text: "Web",
-		link: "/web/",
-	},
-	{
 		text: "Android",
 		link: "/android/",
 	},
