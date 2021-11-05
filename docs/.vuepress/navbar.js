@@ -19,6 +19,18 @@ module.exports = [
 		],
 	},
 	{
+		text: "Php",
+		link: "/php/",
+	},
+	{
+		text: "Web",
+		link: "/web/",
+	},
+	{
+		text: "Android",
+		link: "/android/",
+	},
+	{
 		text: "Wulicode",
 		link: "https://wulicode.com/",
 	},

@@ -82,3 +82,4 @@ iOS :
 ## 参考
 
 -   [详细介绍 HTML favicon 尺寸 格式 制作等相关知识](https://www.zhangxinxu.com/wordpress/2019/06/html-favicon-size-ico-generator/)
+-   [微信自定义分享链接信息](https://segmentfault.com/a/1190000012860070)
