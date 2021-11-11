@@ -19,8 +19,18 @@ module.exports = [
 		],
 	},
 	{
-		text: "Android",
-		link: "/android/",
+		text: "Php",
+		link: "/php/refs/",
+		children: [
+			{
+				text: "简介",
+				link: "/php/1_intro.html",
+			},
+			{
+				text: "函数",
+				link: "/php/refs/",
+			},
+		],
 	},
 	{
 		text: "Wulicode",

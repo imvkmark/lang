@@ -17,32 +17,11 @@ module.exports = {
 		docsBranch: "master",
 		docsDir: "docs",
 	},
-	alias: {
-		
-	},
+	alias: {},
 	markdown: {
 		code: {
 			// lineNumbers: false,
 		},
 	},
-	plugins: [
-		[
-			// https://v2.vuepress.vuejs.org/zh/reference/plugin/register-components.html#配置项
-			"@vuepress/register-components",
-			{},
-		],
-		[
-			"@vuepress/docsearch",
-			{
-				apiKey: "9eca016e40335ee789f9a73253c13be1",
-				indexName: "lang",
-				appId: "LD89A1JN8Y",
-				locales: {
-					"/": {
-						placeholder: "Search",
-					},
-				},
-			},
-		],
-	],
+	plugins: [],
 };
